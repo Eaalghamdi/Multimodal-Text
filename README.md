@@ -1,2 +1,1 @@
-# fun_text
- 
+Multimodal text comprehension 
